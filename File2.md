@@ -3,4 +3,4 @@
 ## 1. Роль
 
 Роль — **описание по ссылке:**
-- https://github.com/inaralekasndovichpermyakov-cyber/my-test-file/tide/main/prompt_business_analyst.md
+- https://github.com/inaralekasndovichpermyakov-cyber/my-test-file/tideTEST1231_DEEPSEEK_UJYJH/main/prompt_business_analyst.md
